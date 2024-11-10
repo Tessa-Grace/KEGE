@@ -1,4 +1,4 @@
-with open('input.txt') as file:
+with open('24_9753.txt') as file:
    data = file.readline()
 
 ans = 0
