@@ -1,5 +1,5 @@
-with open("input.txt") as f:
-    data = f.readline()
+with open('24_9075.txt') as file:
+    data = file.readline()
 
 for i in "13579":
     data = data.replace(i, "*")
