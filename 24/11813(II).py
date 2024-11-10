@@ -1,4 +1,4 @@
-with open('input.txt') as file:
+with open('24_11813.txt') as file:
     st = file.readline()
 
 gl = 'eyuioa'.upper()
