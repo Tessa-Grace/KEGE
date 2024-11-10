@@ -1,4 +1,4 @@
-with open('input.txt') as file:
+with open('24_16333.txt') as file:
     st = file.readline()
 
 st = st.replace('2', '1').replace('4', '1')
