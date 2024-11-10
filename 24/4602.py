@@ -1,6 +1,3 @@
-
-
-
 with open('24_4602') as file:
     data = file.readline()
 
